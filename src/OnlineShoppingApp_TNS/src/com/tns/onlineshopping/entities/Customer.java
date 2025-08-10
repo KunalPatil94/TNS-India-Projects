@@ -1,9 +1,8 @@
-package com.tns.onlineshopping.entities;
+package OnlineShoppingApp_TNS.src.com.tns.onlineshopping.entities;
 
 //===== com/tns/onlineshopping/entities/Customer.java =====
 
-import java.util.ArrayList;
-import java.util.List;
+
 
 public class Customer extends User {
  private String address;

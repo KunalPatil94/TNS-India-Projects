@@ -1,7 +1,5 @@
-package com.tns.onlineshopping.entities;
+package OnlineShoppingApp_TNS.src.com.tns.onlineshopping.entities;
 //===== com/tns/onlineshopping/entities/Order.java =====
-
-import java.util.List;
 
 public class Order {
  private int orderId;

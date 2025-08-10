@@ -1,12 +1,10 @@
-package com.tns.onlineshopping.services;
+package OnlineShoppingApp_TNS.src.com.tns.onlineshopping.services;
 
 //===== com/tns/onlineshopping/services/OrderService.java =====
 
 
-import com.tns.onlineshopping.entities.Order;
-import com.tns.onlineshopping.entities.Product;
-import com.tns.onlineshopping.entities.ProductQuantityPair;
-import com.tns.onlineshopping.util.DBConnection;
+import OnlineShoppingApp_TNS.src.com.tns.onlineshopping.entities.*;
+import OnlineShoppingApp_TNS.src.com.tns.onlineshopping.util.DBConnection;
 
 import java.sql.*;
 import java.util.ArrayList;

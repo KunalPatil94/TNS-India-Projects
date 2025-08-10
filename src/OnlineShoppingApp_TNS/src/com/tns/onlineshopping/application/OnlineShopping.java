@@ -1,10 +1,7 @@
-package com.tns.onlineshopping.application;
+package OnlineShoppingApp_TNS.src.com.tns.onlineshopping.application;
 
-//===== com/tns/onlineshopping/application/OnlineShopping.java =====
-
-
-import com.tns.onlineshopping.entities.*;
-import com.tns.onlineshopping.services.*;
+import OnlineShoppingApp_TNS.src.com.tns.onlineshopping.entities.*;
+import OnlineShoppingApp_TNS.src.com.tns.onlineshopping.services.*;
 
 import java.util.*;
 
